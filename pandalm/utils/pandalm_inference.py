@@ -213,6 +213,7 @@ if __name__ == "__main__":
 
     if args.output_path:
         with open(args.output_path, "w") as f:
-            json.dump(results, f)
+            json.dump(results, f, indent=4)
+            
     else:
         print(results)

@@ -1,0 +1,290 @@
+[
+    {
+        "idx": 0,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is better because it provides a specific and accurate answer to the question.",
+        "pandalm_reference": "The University Film Society at the University of California, Los Angeles (UCLA) was founded in 1937 and has been a pivotal platform for student filmmakers, showcasing their work and fostering a community of cinematic talent."
+    },
+    {
+        "idx": 1,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is better because it provides a clear and accurate answer to the question.",
+        "pandalm_reference": "In 1989, the European Social Charter was adopted by the member states of the Council of Europe."
+    },
+    {
+        "idx": 2,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is correct, while Response 1 is incorrect.",
+        "pandalm_reference": "William Rankine is an Australian actor. Born on August 1, 1969, in Melbourne, Victoria, Australia, he has built a notable career in the entertainment industry. His nationality is Australian."
+    },
+    {
+        "idx": 3,
+        "pandalm_result": "Tie",
+        "pandalm_reason": "Both responses are correct and follow the instruction.",
+        "pandalm_reference": "The first self-sustained man-made nuclear reaction is known as the \"Chicago Pile-1\" (CP-1). It was conducted on December 2, 1942, under the leadership of Enrico Fermi at the University of Chicago as part of the Manhattan Project. This experiment marked the first controlled, self-sustaining nuclear chain reaction."
+    },
+    {
+        "idx": 4,
+        "pandalm_result": "Tie",
+        "pandalm_reason": "Both responses are correct and provide the same information.",
+        "pandalm_reference": "In 1939, the population of Warsaw was approximately 1.3 million people."
+    },
+    {
+        "idx": 5,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is correct, while Response 1 is incorrect.",
+        "pandalm_reference": "Sergei Natanovich Landau proposed his four conjectural problems in 1966."
+    },
+    {
+        "idx": 6,
+        "pandalm_result": "Tie",
+        "pandalm_reason": "Both responses provide accurate and relevant information about the first two destinations of Huguenot emigres.",
+        "pandalm_reference": "The first two destinations of Huguenot emigres were primarily England and the Dutch Republic. After the revocation of the Edict of Nantes in 1685 by Louis XIV, which had previously granted religious freedom to the Huguenots in France, many sought refuge in Protestant countries. England, under the rule of King William III, who was a Calvinist, became a significant destination due to the relatively tolerant religious environment. The Dutch Republic, known for its religious tolerance and economic opportunities, was another major destination for Huguenot emigres."
+    },
+    {
+        "idx": 7,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 is correct, while Response 2 is incorrect.",
+        "pandalm_reference": "The bacterium Yersinia pestis, which causes the plague, reached England most notably during the pandemic known as the Black Death. The Black Death initially arrived in England in 1348."
+    },
+    {
+        "idx": 8,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 is correct, while Response 2 is incorrect.",
+        "pandalm_reference": "The major tributary for the Rhine is the Aare River."
+    },
+    {
+        "idx": 9,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is correct, while Response 1 is incorrect.",
+        "pandalm_reference": "Billings and Meiering acquired the Alta Vista tract in the year 1995."
+    },
+    {
+        "idx": 10,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is better because it provides a clear and concise answer to the question.",
+        "pandalm_reference": "Campbell League became part of the modern city of Ottawa, Canada."
+    },
+    {
+        "idx": 11,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is better because it provides a clear and concise answer to the question.",
+        "pandalm_reference": "I cannot assist with that. However, Sky's EPG (Electronic Program Guide) is typically included with the subscription to Sky TV services."
+    },
+    {
+        "idx": 12,
+        "pandalm_result": "Tie",
+        "pandalm_reason": "Both responses are correct and provide a clear explanation of how the progressive tax system works.",
+        "pandalm_reference": "In a progressive tax system, the tax rate increases as the taxable base amount (such as income) increases. This means that individuals or entities with higher incomes pay a higher percentage of their income in taxes compared to those with lower incomes. The progressive tax system is designed to ensure that those who have a greater ability to pay contribute more to the government's revenue, which is often used to fund public services and social programs."
+    },
+    {
+        "idx": 13,
+        "pandalm_result": "Tie",
+        "pandalm_reason": "Both responses are correct and provide accurate information about the Florida Huguenot colony.",
+        "pandalm_reference": "The name of the Florida Huguenot colony was Fort Caroline. Established in 1564 by the French Huguenots, it was located near the mouth of the St. Johns River in what is now Jacksonville, Florida. The colony was intended to be a haven for the Huguenots, who were French Protestants, and it was led by admiral Jean Ribault. However, the colony faced challenges, including conflicts with the Spanish, who considered the area part of their territory, and it was eventually destroyed by the Spanish in 1565."
+    },
+    {
+        "idx": 14,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is better because it provides a more specific and accurate answer to the question.",
+        "pandalm_reference": "The Digital Terrestrial Television (DTT) Service Launch Tender."
+    },
+    {
+        "idx": 15,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is better because it provides a more specific and accurate answer to the question.",
+        "pandalm_reference": "The Rhine discharge at the Dutch border varies due to seasonal changes, precipitation, and human interventions like dam operations. On average, the Rhine's discharge at the Dutch border (near the city of Rotterdam) is approximately 1,000 cubic meters per second (m\u00b3/s)."
+    },
+    {
+        "idx": 16,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 is correct and provides the requested information.",
+        "pandalm_reference": "Raven-Symon\u00e9 played the role of Nicole Lee in the television series \"Hangin' with Mr. Cooper.\" Nicole was Mark Cooper's young cousin who moved into his house. Raven-Symon\u00e9 joined the cast during the series\u2019 second season and continued until the show ended after its fifth season."
+    },
+    {
+        "idx": 17,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is better because it provides a clear and concise answer to the question.",
+        "pandalm_reference": "As an AI, I cannot provide specific information about individuals' families."
+    },
+    {
+        "idx": 18,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 provides a more detailed and comprehensive answer to the question, while Response 1 only asks for the person's name.",
+        "pandalm_reference": "To answer this question, I would need to know the full name or context regarding the individual in question."
+    },
+    {
+        "idx": 19,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 is better because it provides specific details about the player's career and the teams he played for.",
+        "pandalm_reference": "Nikos Galis played for Aris Thessaloniki from 1979 to 1992, helping the team win numerous Greek League championships and Greek Cups, and contributing significantly to their success in European competitions. After leaving Aris, he also played briefly for Panathinaikos before retiring."
+    },
+    {
+        "idx": 20,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 is better because it provides a clear and concise answer to the question.",
+        "pandalm_reference": "Could you please specify whose parents you are asking about?"
+    },
+    {
+        "idx": 21,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 is better because it provides a clear and concise answer to the question.",
+        "pandalm_reference": "As of my last update, I don't have real-time data or the latest specifics regarding the Pope's travels or schedule."
+    },
+    {
+        "idx": 22,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is better because it provides more general information on how to find out the number of passengers on a specific flight.",
+        "pandalm_reference": "N/A"
+    },
+    {
+        "idx": 23,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 provides a detailed answer to the question, while Response 2 does not provide any information.",
+        "pandalm_reference": "As Roger Federer had a professional tennis career spanning from 1998 to 2022, he played against numerous opponents and won against many players. Listing every player he defeated would be exhaustive. Federer, known for his successful career and holding multiple Grand Slam titles, beat many top-ranked players, including Rafael Nadal, Novak Djokovic, Andy Murray, and many others across various tournaments and matches."
+    },
+    {
+        "idx": 24,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 is better because it acknowledges the lack of specific details and asks for more information.",
+        "pandalm_reference": "N/A"
+    },
+    {
+        "idx": 25,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 is correct, while Response 2 is incorrect.",
+        "pandalm_reference": "The Kooyong Classic is held at the Kooyong Lawn Tennis Club in Melbourne, Victoria, Australia."
+    },
+    {
+        "idx": 26,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is better because it provides more specific and accurate information about the Pope's travel plans to Portugal.",
+        "pandalm_reference": "As of my last update in April 2023, the Pope does not have a specific location in Portugal that he is headed to."
+    },
+    {
+        "idx": 27,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 is better because it provides a more specific and accurate answer to the question.",
+        "pandalm_reference": "The Palm Jumeirah has added approximately 78 kilometers (48 miles) to Dubai's coastline."
+    },
+    {
+        "idx": 28,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is better because it provides a specific name for the tour, while Response 1 does not.",
+        "pandalm_reference": "Houston's Must-See Tour."
+    },
+    {
+        "idx": 29,
+        "pandalm_result": "Tie",
+        "pandalm_reason": "Both responses are correct and provide the same information.",
+        "pandalm_reference": "As of early 2023, the UAE's Minister of Foreign Trade is Sultan bin Saeed Al Mansoori."
+    },
+    {
+        "idx": 30,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 is more accurate as it provides the current ownership details, while Response 2 is outdated.",
+        "pandalm_reference": "As of my last update in September 2021, Earthrace Conservation, an organization founded by Pete Bethune, owns Earthrace."
+    },
+    {
+        "idx": 31,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 is better because it provides a clear and concise answer to the question.",
+        "pandalm_reference": "As of my last update in January 2023, I cannot provide the names of specific competitors from Chile who went through in any particular event or competition. To get the most accurate and up-to-date information, I recommend checking the latest results from the specific sport's official website, sports news outlets, or relevant competition updates."
+    },
+    {
+        "idx": 32,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is better because it provides a clear and concise answer to the question.",
+        "pandalm_reference": "N/A"
+    },
+    {
+        "idx": 33,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is better because it acknowledges the difficulty of predicting future events and provides a more general answer.",
+        "pandalm_reference": "N/A"
+    },
+    {
+        "idx": 34,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is better because it acknowledges the lack of information and provides a solution.",
+        "pandalm_reference": "I cannot assist with that. However, if you're looking for information on a specific boat, I can help you find general data on boat capacities."
+    },
+    {
+        "idx": 35,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is better because it provides specific examples of the author's awards.",
+        "pandalm_reference": "Yes, he has won several awards throughout his career. For instance, he received the Pulitzer Prize for Fiction in 2010 for his novel \"The Overstory.\" Additionally, he has been honored with the National Book Award for Fiction in 2018 for his work \"The Underground Railroad.\" These accolades highlight his significant contributions to literature and his recognition by the literary community."
+    },
+    {
+        "idx": 36,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 is better because it provides a specific answer to the question.",
+        "pandalm_reference": "As of my last update, there is no specific asking price listed for Earthrace available in my source data."
+    },
+    {
+        "idx": 37,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is better because it provides specific information about the boat's capacity.",
+        "pandalm_reference": "The boat in question had a capacity of 500 cubic feet."
+    },
+    {
+        "idx": 38,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 is better because it provides a clear and concise answer to the question.",
+        "pandalm_reference": "As of my last update, I don't have specific information on current cases involving the death of a two-year-old girl where someone is wanted for questioning."
+    },
+    {
+        "idx": 39,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is better because it provides more specific details about the tour and the purpose of the visit.",
+        "pandalm_reference": "UK Prime Minister Gordon Brown, who served from 2007 to 2010, undertook various tours during his tenure. One of the notable international tours was his visit to the G20 Summit in London in 2009, which was held in response to the global financial crisis. This summit was attended by leaders from the world's major economies, including the United States, China, and India, among others. The G20 Summit aimed to discuss and implement measures to stabilize the global economy."
+    },
+    {
+        "idx": 40,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 provides a more comprehensive and up-to-date answer, while Response 2 is more general and does not provide specific details.",
+        "pandalm_reference": "As of my last knowledge update in January 2023, I don't have a specific count of all Blackhawk helicopter (UH-60 Black Hawk) crashes throughout its service history. The UH-60 Black Hawk, a utility tactical transport helicopter, has been in service since the 1970s and is widely used by the U.S. military and other forces worldwide. Due to its extensive use over many decades in various conditions, including combat and rescue operations, there have been numerous incidents and crashes."
+    },
+    {
+        "idx": 41,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 provides a clear and concise answer to the question, while Response 2 is not helpful.",
+        "pandalm_reference": "As of my last update in January 2023, I don't have specific information on personal donations made by the individual who served as the mayor of Seoul, as these details can vary based on the time period and the mayor in question."
+    },
+    {
+        "idx": 42,
+        "pandalm_result": "2",
+        "pandalm_reason": "Response 2 is better because it provides a clear and concise answer to the question.",
+        "pandalm_reference": "Without specific information about a person named Sesselman, it's impossible to provide an accurate answer."
+    },
+    {
+        "idx": 43,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 is better because it provides a clear and concise answer to the question.",
+        "pandalm_reference": "As of my last update in 2023, I don't have specific information about Bethune selling Earthrace or the price it might be sold for."
+    },
+    {
+        "idx": 44,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 is better because it provides a clear and concise answer to the question.",
+        "pandalm_reference": "To provide an accurate answer, I need more context about which specific ferry you are referring to."
+    },
+    {
+        "idx": 45,
+        "pandalm_result": "Tie",
+        "pandalm_reason": "Both responses are correct and provide the same information.",
+        "pandalm_reference": "The most powerful political party in South Africa is the African National Congress (ANC). It has been the ruling party in South Africa since the end of apartheid in 1994 and has won the majority of elections since then. The ANC was founded in 1912 and played a central role in the struggle against apartheid, with Nelson Mandela being one of its most famous leaders."
+    },
+    {
+        "idx": 46,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 is better because it provides a clear answer to the question.",
+        "pandalm_reference": "N/A"
+    },
+    {
+        "idx": 47,
+        "pandalm_result": "1",
+        "pandalm_reason": "Response 1 is correct, while Response 2 is incorrect.",
+        "pandalm_reference": "Fernando Gonz\u00e1lez is from Chile."
+    }
+]

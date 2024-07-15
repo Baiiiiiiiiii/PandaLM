@@ -120,15 +120,56 @@ class EvaluationPipeline:
                 for item in generated:
                     parsed.append(pandalm.parse_pandalm_response(item))
                 self.pandalm_results_parsed[(candidate1, candidate2)] = parsed
+                # print("parsed =\n", parsed)
         del pandalm
         gc.collect()
         torch.cuda.empty_cache()
+        
+        
+        self.json_results = []
+        # try:
+        #     with open(self.output_data_path, "w") as f:
+        #         json.dump(generated, f, indent=4)
+        # except:
+        #     logging.error(f'Failed to output at: {self.output_data_path}')
+        for idx, item in enumerate(generated):
+            # Splitting the text into parts
+            parts = generated[idx].split('###')
+            # Extracting the relevant sections
+            result = parts[0].strip()
+            try:
+                reason = parts[1].split(': ', 1)[1].strip()
+            except:
+                reason = ""
+            try:
+                reference = parts[2].split(': ', 1)[1].strip()
+            except:
+                reference = ""
+            self.json_results.append(
+                {
+                "idx": idx,
+                "question": self.input_data[idx]["instruction"],
+                "response1": cand1_results[idx],
+                "response2": cand2_results[idx],
+                "pandalm_result": f"{result}",
+                "pandalm_reason": f"{reason}",
+                "pandalm_reference": f"{reference}",
+                # "eval": generated[idx]
+                })
+        # print("pandalm_results =\n", self.pandalm_results)
+        
         if self.output_data_path:
             try:
-                with open(self.output_data_path) as f:
-                    json.dump(self.pandalm_results, f)
+                with open(self.output_data_path, "w") as f:
+                    json.dump(self.json_results, f, indent=4)
             except:
                 logging.error(f'Failed to output at: {self.output_data_path}')
+                    
+            # try:
+            #     with open(self.output_data_path, "w") as f:
+            #         json.dump(self.pandalm_results, f)
+            # except:
+            #     logging.error(f'Failed to output at: {self.output_data_path}')
         return self.pandalm_results_parsed
 
     def evaluate(self):

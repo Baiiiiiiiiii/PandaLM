@@ -185,4 +185,4 @@ dependencies:
       - wandb==0.15.0
       - websockets==11.0.2
       - yarl==1.8.2
-prefix: /{your-conda-path}/envs/pandalm
+prefix: /home/eric/miniconda3/envs/pandalm
