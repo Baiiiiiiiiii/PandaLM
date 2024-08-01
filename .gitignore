@@ -1,0 +1,4 @@
+data/*
+recycle/
+prompt_results/*
+__pycache__

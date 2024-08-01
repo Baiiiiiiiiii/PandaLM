@@ -73,7 +73,7 @@ def main():
     # candidate_files = [
     #     "/home/eric/Bai/PandaLM/data/SLUE/256-rescale/candidates/processed_question_audio_transcription_whisper-small.en.json"
     # ]
-    
+
     gt_file = os.path.join(base_path, "gt.json")
     question_file = os.path.join(base_path, "question.json")
     output_eval_path = os.path.join(base_path, "reverse_order_candidate_first")
